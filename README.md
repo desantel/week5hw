@@ -22,5 +22,6 @@ None
 
 ## Contact-Information
 [Github Profile](https://github.com/desantel)
+
 [Personal Website](https://desantel.github.io/DeSantisPortfolioPage/portfolio.html)
 

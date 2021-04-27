@@ -26,15 +26,19 @@ function colorBg() {
 
 }
 
-// function storeSearch(plan) {
+window.setTimeout(function () {
+    window.location.reload();
+  }, 30000);
+
+
+
+// document.getElementById("saveBtn").addEventListener('Click', function storeSearch(plan) {
 //     dailyPlan.push(plan)
 //     console.log(dailyPlan)
 //     localStorage.setItem("planner", JSON.stringify(dailyPlan));
 //     for (let i = 0; i < dailyPlan.length; i++) {
         
 //     }
-// }
-
-document.getElementById("saveBtn").addEventListener('Click', storeSearch(plan))
+// })
 
 colorBg()
